@@ -1,0 +1,14 @@
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\bin\Debug\netcoreapp2.1\AppServiceDemo.deps.json
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\bin\Debug\netcoreapp2.1\AppServiceDemo.runtimeconfig.json
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\bin\Debug\netcoreapp2.1\AppServiceDemo.runtimeconfig.dev.json
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\bin\Debug\netcoreapp2.1\AppServiceDemo.dll
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\bin\Debug\netcoreapp2.1\AppServiceDemo.pdb
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.csprojAssemblyReference.cache
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.csproj.CoreCompileInputs.cache
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.RazorAssemblyInfo.cache
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.RazorAssemblyInfo.cs
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.AssemblyInfoInputs.cache
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.AssemblyInfo.cs
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.RazorTargetAssemblyInfo.cache
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.dll
+D:\Workspace\Azure IoT\Training\demo-web-app\AppServiceDemo\obj\Debug\netcoreapp2.1\AppServiceDemo.pdb
